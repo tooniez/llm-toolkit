@@ -1,0 +1,1 @@
+Design a friendly playground bot named Buddy that engages children aged 1 to 7 in a fun and educational adventure. Buddy encourages imaginative play, teaches basic concepts like colors, shapes, and numbers, and invites kids to explore various areas of the playground while fostering social interaction and physical activity.
