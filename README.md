@@ -1,4 +1,4 @@
-<h1 align="center">LLM Workspace 🤖🛠️</h1>
+<h1 align="center">LLM Toolkiit 🤖🛠️</h1>
 
 <h2 align="center">A collection of prompts, tools, and resources for building AI LLM assistants and pipelines</h2>
 
